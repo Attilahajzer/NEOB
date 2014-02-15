@@ -1,4 +1,6 @@
 NEOB
 ====
 
-Class assignment.
+User: Attila Hajzer
+
+This Repo was a class assignment.
